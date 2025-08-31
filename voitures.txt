@@ -1,0 +1,100 @@
+1. Toyota Elantra;SUV;hybride;moyen;route;7  
+2. BMW Fiesta;citadine;électrique;bas;ville;5  
+3. Peugeot Rio;citadine;essence;bas;route;2  
+4. Kia Fiesta;citadine;essence;élevé;tous;5  
+5. Peugeot Elantra;citadine;hybride;bas;tous;5  
+6. Renault Fiesta;SUV;électrique;bas;tous;2  
+7. BMW Model 3;citadine;électrique;élevé;ville;2  
+8. Hyundai Corolla;SUV;hybride;élevé;route;4  
+9. Ford Fiesta;berline;hybride;bas;route;2  
+10. Mercedes 208;SUV;essence;bas;ville;5  
+11. Ford Corolla;citadine;hybride;bas;route;5  
+12. Renault Model 3;SUV;essence;élevé;route;5  
+13. BMW Golf;citadine;diesel;bas;tous;7  
+14. BMW Clio;citadine;diesel;élevé;tous;5  
+15. Kia Fiesta;citadine;hybride;moyen;tous;4  
+16. Ford A-Class;SUV;hybride;élevé;tous;2  
+17. Volkswagen Model 3;SUV;hybride;moyen;route;4  
+18. Mercedes Rio;berline;hybride;élevé;tous;2  
+19. Peugeot A-Class;berline;électrique;moyen;route;7  
+20. Mercedes Elantra;citadine;électrique;moyen;route;2  
+21. Renault Elantra;SUV;essence;moyen;tous;2  
+22. Hyundai Elantra;berline;électrique;bas;route;7  
+23. Hyundai Elantra;citadine;hybride;élevé;route;4  
+24. Tesla 208;citadine;diesel;moyen;tous;5  
+25. Peugeot Rio;SUV;essence;moyen;tous;5  
+26. Tesla i3;berline;électrique;élevé;tous;2  
+27. Renault 208;citadine;essence;bas;tous;7  
+28. BMW Fiesta;berline;électrique;bas;ville;4  
+29. Mercedes A-Class;citadine;diesel;moyen;tous;5  
+30. Volkswagen A-Class;SUV;essence;bas;ville;2  
+31. Toyota Model 3;SUV;essence;bas;ville;5  
+32. Hyundai Fiesta;berline;diesel;bas;route;2  
+33. Volkswagen Corolla;citadine;diesel;bas;tous;4  
+34. Kia 208;citadine;diesel;élevé;ville;4  
+35. Toyota i3;citadine;diesel;élevé;ville;4  
+36. Volkswagen i3;citadine;essence;élevé;route;7  
+37. Mercedes Elantra;citadine;essence;moyen;route;2  
+38. Mercedes Model 3;berline;hybride;moyen;ville;4  
+39. Peugeot i3;SUV;électrique;bas;route;5  
+40. Peugeot 208;citadine;électrique;élevé;tous;5  
+41. Tesla Golf;SUV;essence;moyen;tous;2  
+42. Mercedes Golf;berline;hybride;moyen;route;5  
+43. Hyundai A-Class;citadine;hybride;moyen;tous;7  
+44. Toyota Fiesta;berline;essence;élevé;route;5  
+45. Tesla i3;SUV;diesel;bas;tous;5  
+46. Tesla Elantra;SUV;diesel;bas;ville;2  
+47. Volkswagen Rio;SUV;essence;moyen;ville;7  
+48. Renault 208;citadine;essence;moyen;route;4  
+49. Toyota Golf;citadine;diesel;élevé;ville;2  
+50. Volkswagen i3;citadine;hybride;bas;tous;7  
+51. Renault Model 3;berline;diesel;moyen;ville;5  
+52. Mercedes Corolla;citadine;diesel;moyen;tous;2  
+53. Kia Model 3;SUV;hybride;bas;ville;7  
+54. Ford Rio;SUV;diesel;bas;route;2  
+55. Peugeot A-Class;SUV;électrique;élevé;tous;2  
+56. Renault Elantra;berline;diesel;élevé;route;4  
+57. Peugeot Clio;berline;diesel;moyen;tous;2  
+58. Ford i3;SUV;électrique;élevé;ville;2  
+59. Kia Elantra;citadine;essence;élevé;tous;7  
+60. Tesla Model 3;berline;électrique;élevé;ville;2  
+61. Kia Rio;SUV;électrique;élevé;tous;7  
+62. Hyundai i3;citadine;électrique;moyen;tous;4  
+63. Hyundai Elantra;citadine;essence;élevé;route;5  
+64. Renault Corolla;berline;diesel;élevé;route;7  
+65. Tesla i3;SUV;diesel;bas;route;5  
+66. Mercedes i3;citadine;essence;moyen;route;5  
+67. BMW Model 3;berline;électrique;bas;tous;5  
+68. Kia A-Class;SUV;électrique;moyen;tous;5  
+69. Mercedes A-Class;berline;diesel;élevé;ville;2  
+70. BMW Elantra;citadine;essence;bas;tous;2  
+71. Mercedes Clio;citadine;électrique;bas;ville;4  
+72. Mercedes i3;SUV;diesel;moyen;route;5  
+73. Toyota i3;SUV;électrique;élevé;ville;4  
+74. Peugeot Fiesta;citadine;diesel;élevé;tous;7  
+75. Renault Golf;berline;électrique;bas;ville;2  
+76. Kia i3;berline;électrique;moyen;tous;7  
+77. Peugeot Model 3;berline;hybride;élevé;ville;4  
+78. Toyota Corolla;SUV;hybride;moyen;tous;5  
+79. Hyundai Corolla;citadine;diesel;moyen;ville;4  
+80. Peugeot 208;SUV;électrique;élevé;route;5  
+81. Ford 208;berline;essence;bas;route;5  
+82. Mercedes A-Class;citadine;diesel;moyen;route;5  
+83. Tesla A-Class;berline;diesel;bas;ville;5  
+84. Ford 208;citadine;essence;moyen;tous;5  
+85. Ford 208;citadine;essence;moyen;tous;4  
+86. BMW A-Class;berline;hybride;bas;ville;7  
+87. Hyundai i3;berline;électrique;élevé;tous;4  
+88. Renault i3;SUV;hybride;bas;route;2  
+89. Mercedes 208;SUV;électrique;bas;route;2  
+90. Ford Elantra;SUV;hybride;moyen;tous;5  
+91. Toyota Golf;berline;hybride;moyen;route;4  
+92. Hyundai 208;berline;diesel;élevé;route;7  
+93. Tesla 208;SUV;diesel;moyen;ville;5  
+94. Tesla Clio;berline;essence;bas;route;7  
+95. Kia 208;SUV;hybride;moyen;ville;7  
+96. Mercedes Rio;citadine;hybride;bas;route;4  
+97. Toyota Elantra;berline;hybride;élevé;route;7  
+98. Renault Elantra;SUV;essence;moyen;route;2  
+99. Toyota A-Class;SUV;diesel;élevé;route;4  
+100. Toyota Model 3;SUV;diesel;moyen;route;7

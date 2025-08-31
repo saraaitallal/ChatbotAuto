@@ -1,0 +1,12 @@
+# Chatbot Automobile (C)
+
+Ce projet est un assistant conversationnel en langage C qui aide l'utilisateur à choisir un modèle de voiture selon ses critères : type, carburant, budget, usage et nombre de places.
+
+## Fichiers inclus
+- main.c : code principal du chatbot
+- voitures.txt : base de données des modèles
+
+## Fonctionnalités
+- Lecture des critères utilisateur
+- Recherche de modèles correspondant
+- Affichage clair des résultats
